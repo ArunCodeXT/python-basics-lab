@@ -1,7 +1,7 @@
 <h1 align="center">Python Basics Lab 🐍</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&color=9CA3AF&center=true&width=650&pause=1000&lines=Learning+Python+step+by+step;Beginner-friendly+practice+repo;Small+scripts%2C+steady+progress" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&color=007AFF&center=true&width=650&pause=1000&lines=Learning+Python+step+by+step;Beginner-friendly+practice+repo;Small+scripts%2C+steady+progress" />
 </p>
 
 ---
