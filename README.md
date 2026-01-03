@@ -26,3 +26,91 @@ I update this repo whenever I learn something new.
 ---
 
 ## 📂 Repository Structure
+
+This repository documents my **structured journey of mastering Python**, covering:
+- Core Python fundamentals
+- Object-Oriented Programming (OOP)
+- File handling
+- Collections & comprehensions
+- Logical problem solving (DSA-style)
+
+The goal is **strong fundamentals + clean problem-solving skills** suitable for **product-based / FAANG-level interviews**.
+
+---
+
+## 📌 Topics Covered
+
+### 1️⃣ Python Basics
+- Syntax & variables
+- Conditional statements
+- Type casting
+- Mini projects using conditionals
+
+### 2️⃣ Functions
+- User-defined functions
+- Arguments & return values
+- `*args` and `**kwargs`
+- Closures & decorators
+
+### 3️⃣ Loops
+- `for` loop string & number problems
+- `while` loop logic building
+- Mini projects (games, validations)
+
+### 4️⃣ Object-Oriented Programming (OOP)
+- Classes & objects
+- Inheritance (single, multilevel, multiple)
+- Polymorphism
+- Encapsulation
+- Exception handling
+
+### 5️⃣ File Handling
+- Reading & writing files
+- Copying file content
+- Line / word / character count
+- Data storage programs
+
+### 6️⃣ Collections & Comprehensions
+- Lists, sets, dictionaries
+- Comprehension techniques
+- Clean & optimized Pythonic code
+
+### 7️⃣ Problem Solving (Interview-Oriented)
+- Arrays
+- Strings
+- Math-based logic
+- Two-pointer techniques
+- Frequency counting
+- Edge case handling
+
+---
+
+## 🧠 Key Highlights
+
+✔ No external libraries used  
+✔ Logic-first approach  
+✔ Clean, readable Python code  
+✔ Beginner → Intermediate → Interview-ready progression  
+
+---
+
+## 🎯 Why this repository?
+
+This repo is built to:
+- Strengthen **core Python foundations**
+- Improve **logical thinking**
+- Prepare for **coding interviews**
+- Serve as a **revision & reference guide**
+
+---
+
+## 🚀 Next Goals
+- Advanced DSA with LeetCode
+- System design basics
+- Python automation projects
+- AI/ML integration
+
+---
+
+📌 *Consistent learning. Clean code. Strong fundamentals.*
+
